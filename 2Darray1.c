@@ -3,7 +3,6 @@
 
 int main() {
     int rows, cols;
-
     printf("Enter the number of rows and columns for the matrices: ");
     scanf("%d %d", &rows, &cols);
 
