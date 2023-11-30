@@ -137,3 +137,4 @@ int main()
 
 	return 0;
 }
+// 2d array for finla
